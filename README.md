@@ -1,5 +1,5 @@
 # Mobile Device Forensics — Case Study II
-**School of Informatics & IT | AY 2022/2023 Apr Semester (Level 2)**  
+**School of Informatics & IT | AY 2023/2024 Apr Semester (Level 2)**  
 **Diploma in Cybersecurity & Digital Forensics**  
 **Subject: Mobile Device Forensics (MDF) — CCF2C04**
 
