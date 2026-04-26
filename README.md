@@ -9,13 +9,12 @@
 
 | Student ID | Name |
 |---|---|
-| 2000234A | Aurelius Ng Ker Fong |
-| 2000350E | Muhammad Andany Bin Rashid |
-| 2000353I | Muhammad Zaqi Bin Azman |
-| 2000357J | Ng Wei Lin |
-| 2000239J | Tan Jie Xuan Jeshua |
+| 2100296I  | Jonathan New Kah Hwee |
+| 2100321E | Chiok Sin Yee Fraser |
+| 2102369B | Bryton Foo Ming Sheng |
+| 2100407B | Kelton Kung Jun Wei |
 
-**Date Submitted:** 25 May 2022
+**Date Submitted:** 25 May 2023
 
 ---
 
@@ -43,11 +42,10 @@
 
 | Name | Responsibilities |
 |---|---|
-| **Aurelius** | Analysed artefacts from Jack's and Sonny's phones; created Search Warrant; handled Examination/Analysis and Survey & Acquisition phases |
-| **Andany** | Analysed artefacts from Sonny's phone; cross-checked with DI Process Model Checklist; handled Presentation Phase and Legal Implications |
-| **Wei Lin** | Analysed artefacts from Jack's and Sonny's phones; created Search Warrant; handled Examination/Analysis and Survey & Acquisition phases |
-| **Zaqi** | Analysed artefacts from Jack's phone; created Timeline of events; handled Preparation and Presentation phases |
-| **Jeshua** | Analysed artefacts from Sonny's phone; created Chain of Custody form; handled Preparation and Preservation phases |
+| **Bryton** | Analysed artefacts from Jack's and Sonny's phones; created Search Warrant; handled Examination/Analysis and Survey & Acquisition phases; created Chain of Custody form |
+| **Fraser** | Analysed artefacts from Jack's and Sonny's phones; cross-checked with DI Process Model Checklist; handled Presentation Phase and Legal Implications; handled Preparation and Preservation phases |
+| **Kelton** | Analysed artefacts from Jack's and Sonny's phones; created Search Warrant; handled Examination/Analysis and Survey & Acquisition phases |
+| **Jonathan** | Analysed artefacts from Jack's and Sonny's phones; created Timeline of events; handled Preparation and Presentation phases |
 
 ---
 
