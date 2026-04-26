@@ -452,11 +452,11 @@ Overall, the team gained hands-on experience with the DI Model, ADB, mobile fore
 **Singapore Police Force — Chapter 295**
 *Arrests, Searches, and Investigation of Offences — Part I*
 
-**Issued to:** Aurelius, Andany, Jeshua, Zaqi, Wei Lin
+**Issued to:** Bryton, Fraser, Jonathan, Kelton
 
 **Location:** Telepark, 5 Tampines Central 6, Singapore 529482
 
-**Validity:** 3 weeks from 23 May 2022
+**Validity:** 3 weeks from 23 May 2023
 
 **Approved by:** Mr Lim Chee Yong, District Judge
 
@@ -470,7 +470,7 @@ Overall, the team gained hands-on experience with the DI Model, ADB, mobile fore
 ### 8.3 Evidence Chain of Custody Tracking Form
 
 **Case Number:** CC5612629  
-**Submitting Officer:** Aurelius Ng Ker Fong, PI529230F  
+**Submitting Officer:** Bryton Foo Ming Sheng, PI522369B  
 **Victim:** Hazel Casey  
 **Suspects:** Jack Ballow and Sonny Williams  
 **Date/Time Seized:** 25 April 2021  
