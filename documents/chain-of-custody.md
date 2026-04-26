@@ -3,7 +3,7 @@
 ---
 
 **Case Number:** CC5612629  
-**Submitting Officer:** Bryton Foo Ming Sheng, PI522369B 
+**Submitting Officer:** Bryton Foo Ming Sheng, PI522369B
 **Victim:** Hazel Casey  
 **Suspects:** Jack Ballow and Sonny Williams  
 **Date/Time Seized:** 25 April 2021  
