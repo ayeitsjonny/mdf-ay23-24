@@ -1,0 +1,25 @@
+# Private Keys
+# These are lab-generated dummy keys but excluded as good practice
+evidence/jack/A005_privatekey.jackballow187.asc
+evidence/sonny/A017_privatekey.sonnywilliams272.asc
+
+# OVA Device Images (too large for GitHub — store externally)
+*.ova
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQLite temp files
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
