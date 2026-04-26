@@ -2,8 +2,8 @@
 # =============================================================================
 # acquire.sh
 # Evidence Acquisition Script — MDF Case Study II
-# Mobile Device Forensics (CCF2C04) — Group 1
-# Temasek Polytechnic — AY 2022/2023
+# Mobile Device Forensics (CCF2C04) — Group 5
+# Temasek Polytechnic — AY 2023/2024
 # =============================================================================
 # Usage: bash acquire.sh
 # Run from the root of the MDF-Case-Study-II directory
